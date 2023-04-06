@@ -1,6 +1,6 @@
 # First React & First JSX App
 
-## JavaScript Full Stack Bootcamp Assignment - Week 1
+## JavaScript Full Stack Bootcamp - Assignment 1 - Week 1
 
 
 ![Image](https://user-images.githubusercontent.com/116047642/230254177-05aa7a69-7845-407b-ae5c-6cac4adafabd.png)
